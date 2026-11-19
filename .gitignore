@@ -1,0 +1,33 @@
+# Node modules
+node_modules
+
+# TypeScript output
+dist
+
+# Environment variables
+*.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Miscellaneous
+.idea
+.vscode
+*.swp
+
+# Coverage directory used by tools like istanbul
+coverage
+.vercel
+
+bspsbd-53cbda66d717.json
